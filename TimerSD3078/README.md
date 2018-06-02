@@ -16,6 +16,6 @@ SD3078固定地址0X32
 
 * ##  向系统添加新设备
 > echo ds1307 0x32 | sudo tee  /sys/class/i2c-adapter/i2c-1/new_device
-
+* ##  检查设备是否已经占用
 * ##  写入时钟数据
 > sudo hwclock -w
