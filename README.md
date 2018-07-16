@@ -57,6 +57,6 @@ Right now there are two beta version under testing. Official release will soon b
 If you are interested in PiSugar, you can follow our PiSugar github project. It will be updated as soon as we have any progress.
 https://github.com/JdaieLin/PiSugar
 
-Also you can contact us via email: pisugar.zero@gmail.com
+Also you can contact us via email: jdaielin@gmail.com
 
 
