@@ -50,6 +50,7 @@ Right now there are two beta version under testing. Official release will soon b
 | Weight | 39.5g | 44.5g |
 
 ![Easy to install](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/installation.gif)
+![PiSugar Demo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/demo2.png)
 
 
 ## Contact
