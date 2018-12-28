@@ -20,6 +20,11 @@
 ![pisugar_case_common_cap](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/model/pisugar_case_common_cap.png)
 
 
+- pisugar_case_pin_cap （带排针开口的盖子）
+
+![pisugar_case_pin_cap](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/model/pisugar_case_pin_cap.png)
+
+
 - pisugar_case_top_cap （带螺丝孔的上盖，需配合1cm的螺丝柱使用）
 
 ![pisugar_case_top_cap](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/model/pisugar_case_top_cap.png)
