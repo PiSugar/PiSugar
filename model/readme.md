@@ -1,5 +1,7 @@
 # PiSugar Case
 
+PiSugar树莓派项目QQ交流群： 534502126
+
 #### PiSugar Case 3D打印模型文件
 
 文件包括
