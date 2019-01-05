@@ -1,6 +1,8 @@
 # PiSugar
 ![PiSugar Logo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg)
 
+QQ Group: 534502126
+
 ## Why We Make PiSugar
 
 In the last few months, we have been working on projects base on Pi zero. It always comes to my mind that why we choose this tiny thing, to build a new portable product.
