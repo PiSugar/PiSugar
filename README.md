@@ -1,7 +1,6 @@
 # PiSugar
 ![PiSugar Logo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg)
 
-QQ Group: 534502126
 
 ## Why We Make PiSugar
 
