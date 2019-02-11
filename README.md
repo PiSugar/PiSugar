@@ -37,8 +37,6 @@ With iron sheets inside, you can place your pi zero anywhere with magnet.
 
 ## Detail
 
-Right now there are two beta version under testing. Official release will soon be available in Aug 2018.
-
 |  | PiSugar PowerPack M | PiSugar PowerPack L | 
 | - | :-: | :-: | 
 | Output Voltage | 5V | 5V | 
@@ -54,10 +52,7 @@ Right now there are two beta version under testing. Official release will soon b
 ![PiSugar Demo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/demo2.png)
 
 
-## Contact
-If you are interested in PiSugar, you can follow our PiSugar github project. It will be updated as soon as we have any progress.
-https://github.com/JdaieLin/PiSugar
-
-Also you can contact us via email: jdaielin@gmail.com
+## PiSugar Case
+Link to PiSugar Case: https://github.com/PiSugar/PiSugar/tree/master/model
 
 
