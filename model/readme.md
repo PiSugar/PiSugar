@@ -1,6 +1,6 @@
 # PiSugar Case
 
-PiSugar树莓派项目QQ交流群： 534502126
+![PiSugar Logo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg)
 
 #### PiSugar Case 3D打印模型文件
 
