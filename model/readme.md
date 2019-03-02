@@ -42,4 +42,4 @@
 ![pisugar_case_button_comp](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/model/pisugar_case_button_comp.png)
 
 
-注意：打印时请选择对应的STL文件即可打印，建议材料最低厚度支持0.5mm。模型文件请使用solidworks 2018进行编辑。
+注意：建议材料最低厚度支持0.5mm。模型文件请使用solidworks 2018进行编辑。
