@@ -9,12 +9,12 @@
 Files included:
 
 
-- pisugar_case_shell （use with 900mAh）
+- pisugar_case_shell （use with 900mAh battery）
 
 ![pisugar_case_shell](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/model/pisugar_case_shell.png)
 
 
-- pisugar_case_shell_xl （use with 1200mAh）
+- pisugar_case_shell_xl （use with 1200mAh battery）
 
 ![pisugar_case_shell_xl](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/model/pisugar_case_shell_xl.png)
 
