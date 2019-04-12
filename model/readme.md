@@ -6,7 +6,7 @@
 
 [简体中文](https://github.com/PiSugar/PiSugar/tree/master/model/readme.zh-CN.md) | English
 
-文件包括
+Files included:
 
 
 - pisugar_case_shell （use with 900mAh）
