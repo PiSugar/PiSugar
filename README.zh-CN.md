@@ -2,7 +2,9 @@
   <img width="320" src="https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg">
 </p>
 
-[nglish]/README.md) | 简体中文
+[English](/README.md) | 简体中文
+
+
 
 ## 创造PiSugar的初衷
 
