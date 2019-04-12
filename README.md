@@ -1,5 +1,6 @@
-# PiSugar
-![PiSugar Logo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg)
+<p align="center">
+  <img width="320" src="https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg">
+</p>
 
 
 ## Why We Make PiSugar
