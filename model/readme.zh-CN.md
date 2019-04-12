@@ -4,7 +4,7 @@
 
 #### PiSugar Case 3D打印模型文件
 
-简体中文 | [English](./model/readme.md)
+简体中文 | [English](https://github.com/PiSugar/PiSugar/tree/master/model/readme.md)
 
 文件包括
 
