@@ -2,6 +2,7 @@
   <img width="320" src="https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg">
 </p>
 
+English | [简体中文](./README.zh-CN.md)
 
 ## Why We Make PiSugar
 
