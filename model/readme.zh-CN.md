@@ -4,7 +4,7 @@
 
 #### PiSugar Case 3D打印模型文件
 
-简体中文 | [English](https://github.com/PiSugar/PiSugar/new/master/model)
+简体中文 | [English](https://github.com/PiSugar/PiSugar/tree/master/model)
 
 文件包括
 
