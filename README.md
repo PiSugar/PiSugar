@@ -41,9 +41,8 @@ With iron sheets inside, you can place your pi zero anywhere with magnet.
 
 |  | PiSugar PowerPack M | PiSugar PowerPack L | 
 | - | :-: | :-: | 
-| Output Voltage | 5V | 5V | 
-| Current Capacity | 1.2A | 2.4A | 
-| Battery Power | 900mAh | 1200mAh |
+| Output Current | 1.2A | 2.4A | 
+| Battery Capacity | 900mAh | 1200mAh |
 | Battery Life | 3 ~ 4 Hour | 5 ~ 6 Hour |
 | USB Charging Port | mircoUSB | mircoUSB |
 | Size (board) | 65x30x1.5 mm | 65x30x1.5 mm |
