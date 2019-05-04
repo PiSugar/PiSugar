@@ -4,7 +4,7 @@
 
 English | [简体中文](./README.zh-CN.md)
 
-Link to Buy: https://www.amazon.com/dp/B07R7Z2334
+Purchase link: https://www.amazon.com/dp/B07R7Z2334
 
 ## Why We Make PiSugar
 
