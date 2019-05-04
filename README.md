@@ -4,6 +4,8 @@
 
 English | [简体中文](./README.zh-CN.md)
 
+Link to Buy: https://www.amazon.com/dp/B07R7Z2334
+
 ## Why We Make PiSugar
 
 In the last few months, we have been working on projects base on Pi zero. It always comes to my mind that why we choose this tiny thing, to build a new portable product.
