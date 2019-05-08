@@ -5,12 +5,19 @@
 English | [简体中文](./README.zh-CN.md)
 
 Purchase links: 
+
 https://www.amazon.com/dp/B07R7Z2334
+
 https://www.amazon.es/dp/B07RLZ8Q3M
+
 https://www.amazon.it/dp/B07RFVDG3P
+
 https://www.amazon.fr/dp/B07RHX3P9Z
+
 https://www.amazon.de/dp/B07RHWYMTJ
+
 https://www.amazon.co.uk/dp/B07RDNT8CY
+
 
 ## Why We Make PiSugar
 
