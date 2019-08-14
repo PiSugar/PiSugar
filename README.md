@@ -18,6 +18,10 @@ https://www.amazon.de/dp/B07RHWYMTJ
 
 https://www.amazon.co.uk/dp/B07RDNT8CY
 
+Hackaday Project:
+
+https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
+
 
 ## Why We Make PiSugar
 
