@@ -6,25 +6,16 @@ English | [简体中文](./README.zh-CN.md)
 
 Purchase links: 
 
-US https://www.amazon.com/dp/B07R7Z2334
-
-Spain https://www.amazon.es/dp/B07RLZ8Q3M
-
-Italy https://www.amazon.it/dp/B07RFVDG3P
-
-France https://www.amazon.fr/dp/B07RHX3P9Z
-
-Germany https://www.amazon.de/dp/B07RHWYMTJ
-
-UK https://www.amazon.co.uk/dp/B07RDNT8CY
-
-Brazil https://produto.mercadolivre.com.br/MLB-1266063761-modulo-de-alimentaco-pisugar-para-raspberry-pi-zero-e-zero-_JM
-
-Argentina https://articulo.mercadolibre.com.ar/MLA-797198973-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM
-
-Chile https://articulo.mercadolibre.cl/MLC-495393761-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM
-
-Mexico https://articulo.mercadolibre.com.mx/MLM-695553490-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM
+<a href="https://www.amazon.com/dp/B07R7Z2334">US</a>, 
+<a href="https://www.amazon.es/dp/B07RLZ8Q3M">Spain</a>, 
+<a href="https://www.amazon.it/dp/B07RFVDG3P">Italy</a>, 
+<a href="https://www.amazon.fr/dp/B07RHX3P9Z">France</a>, 
+<a href="https://www.amazon.de/dp/B07RHWYMTJ">Germany</a>, 
+<a href="https://www.amazon.co.uk/dp/B07RDNT8CY">UK</a>, 
+<a href="https://produto.mercadolivre.com.br/MLB-1266063761-modulo-de-alimentaco-pisugar-para-raspberry-pi-zero-e-zero-_JM">Brazil</a> ,
+<a href="https://articulo.mercadolibre.com.ar/MLA-797198973-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM">Argentina</a>, 
+<a href="https://articulo.mercadolibre.cl/MLC-495393761-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM">Chile</a>, 
+<a href="https://articulo.mercadolibre.com.mx/MLM-695553490-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM">Mexico</a> 
 
 
 Hackaday Project:
