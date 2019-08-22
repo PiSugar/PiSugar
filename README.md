@@ -73,6 +73,8 @@ With iron sheets inside, you can place your pi zero anywhere with magnet.
 
 
 ## PiSugar Case
+
 Link to PiSugar Case: https://github.com/PiSugar/PiSugar/tree/master/model
+Link to PHAT Caps: https://github.com/PiSugar/pisugar-case-pihat-cap
 
 
