@@ -6,17 +6,21 @@ English | [简体中文](./README.zh-CN.md)
 
 Purchase links: 
 
-https://www.amazon.com/dp/B07R7Z2334
+<a href="https://www.amazon.com/dp/B07R7Z2334" target="_blank">US</a>, 
+<a href="https://www.amazon.es/dp/B07RLZ8Q3M" target="_blank">Spain</a>, 
+<a href="https://www.amazon.it/dp/B07RFVDG3P" target="_blank">Italy</a>, 
+<a href="https://www.amazon.fr/dp/B07RHX3P9Z" target="_blank">France</a>, 
+<a href="https://www.amazon.de/dp/B07RHWYMTJ" target="_blank">Germany</a>, 
+<a href="https://www.amazon.co.uk/dp/B07RDNT8CY" target="_blank">UK</a>, 
+<a href="https://produto.mercadolivre.com.br/MLB-1266063761-modulo-de-alimentaco-pisugar-para-raspberry-pi-zero-e-zero-_JM" target="_blank">Brazil</a> ,
+<a href="https://articulo.mercadolibre.com.ar/MLA-797198973-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM" target="_blank">Argentina</a>, 
+<a href="https://articulo.mercadolibre.cl/MLC-495393761-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM" target="_blank">Chile</a>, 
+<a href="https://articulo.mercadolibre.com.mx/MLM-695553490-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM" target="_blank">Mexico</a> 
 
-https://www.amazon.es/dp/B07RLZ8Q3M
 
-https://www.amazon.it/dp/B07RFVDG3P
+Hackaday Project:
 
-https://www.amazon.fr/dp/B07RHX3P9Z
-
-https://www.amazon.de/dp/B07RHWYMTJ
-
-https://www.amazon.co.uk/dp/B07RDNT8CY
+https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 
 
 ## Why We Make PiSugar
@@ -69,6 +73,10 @@ With iron sheets inside, you can place your pi zero anywhere with magnet.
 
 
 ## PiSugar Case
+
 Link to PiSugar Case: https://github.com/PiSugar/PiSugar/tree/master/model
 
+Link to PHAT Caps: https://github.com/PiSugar/pisugar-case-pihat-cap
+
+![PiSugar Caps](https://github.com/PiSugar/pisugar-case-pihat-cap/blob/master/gallery_w.jpg?raw=true)
 
