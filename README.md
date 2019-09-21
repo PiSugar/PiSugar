@@ -17,6 +17,9 @@ Purchase links:
 <a href="https://articulo.mercadolibre.cl/MLC-495393761-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM" target="_blank">Chile</a>, 
 <a href="https://articulo.mercadolibre.com.mx/MLM-695553490-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM" target="_blank">Mexico</a> 
 
+Get notification when PiSugar2 is available:
+
+https://subscribe.pisugar.com
 
 Hackaday Project:
 
