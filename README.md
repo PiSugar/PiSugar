@@ -23,9 +23,9 @@ Hackaday Project:
 
 https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 
-#### Get notification when PiSugar2 is available:
+#### PiSugar2 is now available on Tindie:
 
-https://subscribe.pisugar.com
+https://www.tindie.com/stores/pisugar/
 
 ## Why We Make PiSugar
 
@@ -41,6 +41,7 @@ We call it PiSugar PowerPack — a power module specially designed for raspberry
 
 ![PiSugar Demo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/demo.gif)
 
+Visit PiSugar wiki page for more detail: https://github.com/PiSugar/PiSugar/wiki
 
 ## Features
 
@@ -62,16 +63,20 @@ With iron sheets inside, you can place your pi zero anywhere with magnet.
 
 ## Detail
 
-|  | PiSugar PowerPack M | PiSugar PowerPack L | 
-| - | :-: | :-: | 
-| Output Current | 1.2A | 2.4A | 
-| Output Voltage | 5V | 5V | 
-| Battery Capacity | 900mAh | 1200mAh |
-| Battery Life | 3 ~ 4 Hour | 5 ~ 6 Hour |
-| USB Charging Port | mircoUSB | mircoUSB |
-| Size (board) | 65x30x1.5 mm | 65x30x1.5 mm |
-| Size (battery) | 65x30x4 mm | 52x27x10 mm |
-| Weight | 39.5g | 44.5g |
+|  | PiSugar PowerPack M | PiSugar PowerPack L | PiSugar2 PowerPack L
+| - | :-: | :-: | :-: |
+| Output Current | 1.2A | 2.4A | 2.4A | 
+| Output Voltage | 5V | 5V | 5V |
+| Battery Capacity | 900mAh | 1200mAh | 1200mAh |
+| Battery Life | 3 ~ 4 Hour | 5 ~ 6 Hour | 5 ~ 6 Hour |
+| USB Charging Port | mircoUSB | mircoUSB | mircoUSB |
+| Size (board) | 65x30x1.5 mm | 65x30x1.5 mm | 65x30x1.5 mm |
+| Size (battery) | 65x30x4 mm | 52x27x10 mm | 52x27x10 mm |
+| Weight | 39.5g | 44.5g | 50g |
+| UPS | - | - | support |
+| RTC | - | - | support |
+| I2C | - | - | 0x75(BAT) 0x32(RTC) |
+| Programable Button | - | - | support |
 
 ![Easy to install](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/installation.gif)
 ![PiSugar Demo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/demo2.png)
@@ -80,6 +85,8 @@ With iron sheets inside, you can place your pi zero anywhere with magnet.
 ## PiSugar Case
 
 Link to PiSugar Case: https://github.com/PiSugar/PiSugar/tree/master/model
+
+Link to PiSugar2 Case (Beta): https://github.com/PiSugar/PiSugar/tree/master/model2
 
 Link to PHAT Caps: https://github.com/PiSugar/pisugar-case-pihat-cap
 
