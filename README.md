@@ -14,10 +14,7 @@ Purchase links:
 <a href="https://www.amazon.fr/dp/B07RHX3P9Z" target="_blank">France</a>, 
 <a href="https://www.amazon.de/dp/B07RHWYMTJ" target="_blank">Germany</a>, 
 <a href="https://www.amazon.co.uk/dp/B07RDNT8CY" target="_blank">UK</a>, 
-<a href="https://produto.mercadolivre.com.br/MLB-1266063761-modulo-de-alimentaco-pisugar-para-raspberry-pi-zero-e-zero-_JM" target="_blank">Brazil</a> ,
-<a href="https://articulo.mercadolibre.com.ar/MLA-797198973-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM" target="_blank">Argentina</a>, 
-<a href="https://articulo.mercadolibre.cl/MLC-495393761-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM" target="_blank">Chile</a>, 
-<a href="https://articulo.mercadolibre.com.mx/MLM-695553490-modulo-de-fuente-de-alimentacion-pisugar-para-frambuesa-pi-c-_JM" target="_blank">Mexico</a> 
+
 
 Hackaday Project:
 
