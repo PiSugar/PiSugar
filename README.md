@@ -24,6 +24,10 @@ https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 
 https://www.tindie.com/stores/pisugar/
 
+#### Product Wiki
+
+https://github.com/PiSugar/PiSugar/wiki
+
 ## Why We Make PiSugar
 
 In the last few months, we have been working on projects base on Pi zero. It always comes to my mind that why we choose this tiny thing, to build a new portable product.
