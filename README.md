@@ -8,21 +8,29 @@ Purchase links:
 
 <a href="https://www.tindie.com/stores/pisugar/?ref=offsite_badges&utm_source=sellers_Pisugar&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
-<a href="https://www.amazon.com/dp/B07R7Z2334" target="_blank">US</a>, 
-<a href="https://www.amazon.es/dp/B07RLZ8Q3M" target="_blank">Spain</a>, 
-<a href="https://www.amazon.it/dp/B07RFVDG3P" target="_blank">Italy</a>, 
-<a href="https://www.amazon.fr/dp/B07RHX3P9Z" target="_blank">France</a>, 
-<a href="https://www.amazon.de/dp/B07RHWYMTJ" target="_blank">Germany</a>, 
-<a href="https://www.amazon.co.uk/dp/B07RDNT8CY" target="_blank">UK</a>, 
-
-
 Hackaday Project:
 
 https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 
-#### PiSugar2 is now available on Tindie:
+#### PiSugar2 is now available on Tindie & Amazon:
 
-https://www.tindie.com/stores/pisugar/
+https://www.tindie.com/products/19841/
+
+Amazon:
+<a href="https://www.amazon.com/dp/B08D678XPR" target="_blank">US</a>, 
+<a href="https://www.amazon.de/dp/B08D678XPR" target="_blank">Germany</a>, 
+<a href="https://www.amazon.fr/dp/B08D678XPR" target="_blank">France</a>, 
+<a href="https://www.amazon.co.uk/dp/B08D678XPR" target="_blank">UK</a>
+
+#### PiSugar2 Pro:
+
+https://www.tindie.com/products/19850/
+
+Amazon:
+<a href="https://www.amazon.com/dp/B08D8PPCKN" target="_blank">US</a>, 
+<a href="https://www.amazon.de/dp/B08D8PPCKN" target="_blank">Germany</a>, 
+<a href="https://www.amazon.fr/dp/B08D8PPCKN" target="_blank">France</a>, 
+<a href="https://www.amazon.co.uk/dp/B08D8PPCKN" target="_blank">UK</a>
 
 #### Product Wiki
 
