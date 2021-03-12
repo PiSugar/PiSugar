@@ -1,5 +1,5 @@
 
-model/~$*
+~$*
 model/custom/*
 model/respeaker_shell/~$comp_respeaker.SLDASM
 model2/~$batt-1200.SLDPRT
@@ -11,3 +11,4 @@ model2/~$pisugar2_switch.SLDPRT
 model2/~$pisugar2Board.SLDPRT
 model2/~$RaspberryPiZeroW.SLDPRT
 model2/~$screw.SLDPRT
+model_pro/~$18650x3-box.SLDPRT
