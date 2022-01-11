@@ -78,7 +78,7 @@ With iron sheets inside, you can place your pi zero anywhere with magnet.
 | Output Voltage | 5V | 5V | 5V |
 | Battery Capacity | 900mAh | 1200mAh | 1200mAh |
 | Battery Life | 3 ~ 4 Hour | 5 ~ 6 Hour | 5 ~ 6 Hour |
-| USB Charging Port | mircoUSB | mircoUSB | mircoUSB |
+| USB Charging Port | microUSB | microUSB | microUSB |
 | Size (board) | 65x30x1.5 mm | 65x30x1.5 mm | 65x30x1.5 mm |
 | Size (battery) | 65x30x4 mm | 52x27x10 mm | 52x27x10 mm |
 | Weight | 39.5g | 44.5g | 50g |
