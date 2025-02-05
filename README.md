@@ -50,7 +50,7 @@ We also believe in delicacy and better experience, which are essential for elect
 After trying a number of power supply solutions, we found that none of them is elegent enough.
 So we decide make it by ourselves. 
 
-We call it PiSugar PowerPack — a power module specially designed for raspberry pi zero/pi zero w.
+We call it PiSugar PowerPack — a power module specially designed for raspberry pi.
 
 ![PiSugar Demo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/demo.gif)
 
