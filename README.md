@@ -17,7 +17,7 @@ https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 <a href="https://www.tindie.com/stores/pisugar/?ref=offsite_badges&utm_source=sellers_Pisugar&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
 #### PiSugar3 on Amazon:
-<a href="https://www.amazon.com/dp/B09MJ8SCGD?ref=github" target="_blank">US</a> 
+<a href="https://www.amazon.com/dp/B0FB3N1YSK?ref=github" target="_blank">US</a> 
 <a href="https://www.amazon.co.uk/dp/B09QS12N1W" target="_blank">UK</a> 
 <a href="https://www.amazon.de/dp/B09QS12N1W" target="_blank">Germany</a> 
 <a href="https://www.amazon.fr/dp/B09QS12N1W?ref=myi_title_dp" target="_blank">France</a> 
