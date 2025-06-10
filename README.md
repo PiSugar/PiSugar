@@ -25,7 +25,7 @@ https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 <a href="http://www.amazon.co.jp/dp/B09QRQPWYC?ref=myi_title_dp" target="_blank">Japan</a> 
 
 #### PiSugar3 Plus on Amazon:
-<a href="https://www.amazon.com/dp/B09MJ876FW?ref=myi_title_dp" target="_blank">US</a> 
+<a href="https://www.amazon.com/dp/B0FBK89B8H?ref=github" target="_blank">US</a> 
 <a href="https://www.amazon.co.uk/dp/B09QRS666Y" target="_blank">UK</a> 
 <a href="https://www.amazon.de/dp/B09QRS666Y" target="_blank">Germany</a> 
 <a href="https://www.amazon.fr/dp/B09QRS666Y?ref=myi_title_dp" target="_blank">France</a>  
