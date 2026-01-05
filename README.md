@@ -67,7 +67,7 @@ We call it PiSugar PowerPack — a power module specially designed for raspberry
 
 ![PiSugar Demo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/demo.gif)
 
-Visit PiSugar wiki page for more detail: https://github.com/PiSugar/PiSugar/wiki
+Visit PiSugar wiki page for more detail: https://docs.pisugar.com
 
 ## Features
 
