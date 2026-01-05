@@ -51,7 +51,7 @@ https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 
 #### Product Wiki
 
-https://github.com/PiSugar/PiSugar/wiki
+[PiSugar Wiki](https://docs.pisugar.com)
 
 ## Why We Make PiSugar
 
@@ -66,8 +66,6 @@ So we decide make it by ourselves.
 We call it PiSugar PowerPack — a power module specially designed for raspberry pi.
 
 ![PiSugar Demo](https://raw.githubusercontent.com/JdaieLin/PiSugar/master/demo.gif)
-
-Visit PiSugar wiki page for more detail: https://docs.pisugar.com
 
 ## Features
 
