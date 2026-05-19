@@ -1,0 +1,63 @@
+name: Product materials, CAD drawings, and documentation feedback
+description: Use this form only for feedback about product information, CAD drawings, documents, or other materials in this repository.
+title: "[Docs/Materials] "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve this repository.
+
+        This repository is only for PiSugar product introductions, CAD drawings, documents, and related materials.
+
+        For product purchase, warranty, shipping, hardware support, or other customer support requests, please contact: pisugar.zero@gmail.com
+
+        For PiSugar software or power manager issues, please open an issue here:
+        https://github.com/PiSugar/pisugar-power-manager-rs/issues
+  - type: checkboxes
+    id: scope_confirmation
+    attributes:
+      label: Scope confirmation
+      options:
+        - label: I understand this repository only accepts feedback about product materials, CAD drawings, documents, or other repository information.
+          required: true
+        - label: I understand product purchase, warranty, shipping, hardware support, or customer support requests should be sent to pisugar.zero@gmail.com.
+          required: true
+        - label: I understand PiSugar software or power manager issues should be reported to https://github.com/PiSugar/pisugar-power-manager-rs/issues.
+          required: true
+  - type: dropdown
+    id: material_type
+    attributes:
+      label: What kind of material is this about?
+      options:
+        - Product information
+        - CAD drawing / 3D model
+        - Documentation
+        - Repository file or link
+        - Other repository material
+    validations:
+      required: true
+  - type: input
+    id: file_or_page
+    attributes:
+      label: Related file or page
+      description: Please provide the filename, path, README section, or page URL.
+      placeholder: README.md, model3/Pisugar3Zero.SLDDRW, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: Describe the missing, outdated, unclear, or incorrect information.
+      placeholder: Tell us what should be changed in the repository materials.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected update
+      description: If possible, describe the correction or expected content.
+    validations:
+      required: false
