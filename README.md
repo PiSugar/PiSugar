@@ -17,7 +17,7 @@ https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 <a href="https://www.tindie.com/stores/pisugar/?ref=offsite_badges&utm_source=sellers_Pisugar&utm_medium=badges&utm_campaign=badge_medium"><img src="https://static.tindie.com/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
 #### PiSugar3 on Amazon:
-<a href="https://www.amazon.com/dp/B0FB3N1YSK?ref=github" target="_blank">US</a> 
+<a href="https://www.amazon.com/dp/B0H5JMWJJ6" target="_blank">US</a> 
 <a href="https://www.amazon.co.uk/dp/B09QS12N1W" target="_blank">UK</a> 
 <a href="https://www.amazon.de/dp/B09QS12N1W" target="_blank">Germany</a> 
 <a href="https://www.amazon.fr/dp/B09QS12N1W?ref=myi_title_dp" target="_blank">France</a> 
@@ -25,13 +25,15 @@ https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 <a href="http://www.amazon.co.jp/dp/B09QRQPWYC?ref=myi_title_dp" target="_blank">Japan</a> 
 
 #### PiSugar3 Plus on Amazon:
-<a href="https://www.amazon.com/dp/B0FBK89B8H?ref=github" target="_blank">US</a> 
+<a href="https://www.amazon.com/dp/B0H51CW3Q5" target="_blank">US</a> 
 <a href="https://www.amazon.co.uk/dp/B09QRS666Y" target="_blank">UK</a> 
 <a href="https://www.amazon.de/dp/B09QRS666Y" target="_blank">Germany</a> 
 <a href="https://www.amazon.fr/dp/B09QRS666Y?ref=myi_title_dp" target="_blank">France</a>  
 <a href="https://www.amazon.com.au/dp/B09QRS666Y?ref=myi_title_dp" target="_blank">Australia</a> 
 <a href="https://www.amazon.co.jp/dp/B09QRY2KNG?ref=myi_title_dp" target="_blank">Japan</a> 
 
+#### PiSugar3 Air on Amazon:
+<a href="https://www.amazon.com/dp/B0H4Z5XK7F" target="_blank">US</a> 
 
 #### PiSugar2 on Amazon:
 <a href="https://www.amazon.com/dp/B08D678XPR" target="_blank">US</a> 
@@ -48,6 +50,12 @@ https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero
 <a href="https://www.amazon.fr/dp/B08D8PPCKN" target="_blank">France</a> 
 <a href="https://www.amazon.com.au/dp/B08D8PPCKN?ref=myi_title_dp" target="_blank">Australia</a>  
 <a href="https://www.amazon.co.jp/dp/B08D8PPCKN" target="_blank">Japan</a> 
+
+#### PiSugarS on Amazon:
+<a href="https://www.amazon.com/dp/B0H4VCS6CF" target="_blank">US</a> 
+
+#### PiSugarS Plus on Amazon:
+<a href="https://www.amazon.com/dp/B0H4TY3KCN" target="_blank">US</a> 
 
 #### Product Wiki
 
